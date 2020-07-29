@@ -1,0 +1,374 @@
+What can she do to potentially get a higher ad position?
+Karen's washing machine broke, so she's conducting a search on Google to find a new one. She sees a number of Google Search Ads for washing machines in the results.
+
+Which of the following make up some of the parameters that the Google Search Ads auction uses to determine what ads Karen sees? (Choose two.)
+
+
+
+3.A water-sports company specializes in custom-made watercrafts and accessories.Their marketing manager decides to use the broad-match keyword, "boat." The manager then adds "paddle" as a broad-match modifier.
+
+Which two searches may prompt the marketing manager's ad? (Choose two.)
+
+
+
+Google Ads offers a variety of campaign types that determine where your ad will appear and the format in which it will be displayed.
+
+What are the available campaign types?
+
+
+Jimmy sells televisions on his website. He notices he's getting traffic from searches for a brand he doesn't carry, and sets up a negative keyword for that brand.
+
+How does the negative keyword help Jimmy's advertising campaign?
+
+
+
+
+
+
+
+
+Which user type would the Google Ads system closely match as an Affinity audience?
+
+
+
+
+
+Why is using the performance targets feature after utilizing the Performance Planner recommended?
+
+
+
+
+
+
+
+Steven is an advertising executive at a large auto parts company. He uses his Google Ads Recommendations page to help him with strategies to optimize his Google Search Ads campaigns.
+
+One reason Steven values the optimization score is because it makes it possible for him to do what?
+
+
+
+
+
+
+
+
+When are automated extensions, such as Seller Ratings, shown?
+
+
+
+
+
+
+Rashid wants to raise awareness of his brand and build campaigns focused on branded terms. He doesn't have much time to devote to daily bid management, so he decides to use automated bidding to lighten his workload.
+
+
+
+
+
+
+It is 10 a.m. and you are sitting in a train station in London, looking through your calendar on your tablet. You realize you forgot to book a boat ride for your trip to San Francisco to see Alcatraz prison.
+
+Match each signal type with how it is demonstrated in this situation.
+
+
+
+
+
+Francine is advertising her company's newest video-editing software and related products. She knows that best practice is to create 3-5 ads in each of her Search Ad groups.
+
+Why does Google make this recommendation?
+
+
+
+
+What are two ways that Performance Planner can help reveal the possibilities across all your Google Ads campaigns? (Choose two.)
+
+
+You've seen great results from your Google Search campaigns when using Remarketing Lists for Search Ads. How might you amplify those results?
+
+
+
+
+
+
+
+Yan wants to attract customers specifically searching on Google for Time-B-Gone, his company's unique office-support product. His marketing consultant suggests using Dynamic Search Ads, and knows Yan will need to start with a simple approach.
+
+For vendors like Yan, what's the simplest method for using Dynamic Search Ads?
+
+
+
+
+
+
+
+Carrie owns a gardening store and uses a website to promote all the products she sells. A user saw a Google Search ad for one of her products.
+
+What might the user have been doing?
+
+
+
+Sam's new to Google Search Ads and worries he may not have the skills or time to run a successful ad campaign.
+
+Which two Dynamic Search Ads features will be of help to Sam? (Choose two.)
+
+
+
+
+
+
+
+Google Ads was designed to help businesses achieve online success. To accomplish this, Google Ads was built on three core principles.
+
+What are these principles?
+
+
+
+
+
+Tara is using Search Audiences to reach her most valuable customers.
+
+Which direct benefit might she obtain by using Search Audience?
+
+
+
+Jennifer's company wants to increase online sales of a featured product by connecting with users who are actively researching similar products.
+
+What benefit would a Google Search campaign provide Jennifer?
+
+
+
+
+
+Which Search Audience solution would assist you in finding new customers that share the behaviors and characteristics of your remarketing audience segments?
+
+
+
+
+
+
+Swee Yin's fashion-apparel department store runs a popular biannual sale on men's hats, with large discounts and surprise bonus items. She wants to tailor her Google Search campaign to highlight this sale.
+
+How can Google Search campaigns be tailored to promote her company's sales event? (Choose two.)
+
+
+
+
+
+
+Jim has created a Google Search ad with a bid of $5. Two other advertisers in an auction have bids of $2.50 and $2.
+
+How much would Jim pay for the first spot in the auction?
+
+
+
+
+
+
+You manage marketing for a small business on a tight budget, yet you need to reach as many people as possible.
+
+How can Google Ads help?
+
+
+
+
+Wendy is setting up a Customer Match strategy to reach a list of prospective customers.
+
+What must she provide?
+
+
+
+
+
+
+
+Jerry's managing a Google Search campaign and would like to improve the position in which his ads appear. He's increased his bids, but his ad still isn't showing at the top of Search results.
+
+What else might he do to improve his Ad Rank?
+
+
+
+
+
+
+
+
+What is the minimum number of users a remarketing list must have before being used with a Remarketing List for Search Ads campaign?
+
+
+
+
+When creating an ad, how does Greg know what it will look like to his potential customers?
+
+
+
+
+What content could be used for a structured snippet extension?
+
+
+
+
+John's company makes a great product and customers are happy with their purchases. Unfortunately, few potential customers visit the company's website.
+
+What are two ways that responsive search ads could help John's company reach more potential customers? (Choose two.)
+
+
+
+
+
+When creating a text ad for the Search Network, advertisers will need to include three distinct components. These include the headline and the URL.
+
+What else must the advertiser include?
+
+
+
+
+
+
+What is a valid recommendation that the Performance Planner can provide?
+
+
+
+
+Maria has been told that she should use the Performance Planner on a monthly basis.
+
+Why should she do so?
+
+
+
+
+
+
+Bob's electronics company is launching the sale of a new television, UltraView1000. Bob decides to use phrase match in his Search Ads campaign because he wants searches that contain UltraView1000 to show his ad.
+
+How else will phrase match benefit Bob's campaign?
+
+
+
+
+
+
+
+What Search Network text ad component provides up to three fields of 30 characters each?
+
+
+
+Peggy owns a house-cleaning service. She built a booking website and is ready to promote her services online. She wants her ads to reach people actively looking for businesses similar to hers.
+
+Which Google Ads campaign should Peggy use to make sure potential customers consider her services and take action by booking house cleanings?
+
+
+
+
+
+
+
+Trina is using automated bidding as part of her Google Ads Search bidding strategy.
+
+Why might she prefer automated bidding?
+
+
+
+
+
+You are working to improve the quality score of a Google Search ad by increasing your eCTR. Your goal is to have more users click on the ad and ultimately visit your website.
+
+What might increase the number of clicks your ad receives?
+
+
+
+
+
+
+Marta has a tight marketing budget and needs to use a strategy that can drive customers to her website for a set cost.
+
+Which bidding strategy has the potential to meet Marta's needs?
+
+
+
+
+
+
+Ad extensions assist in providing users with which two things they want from their search experience? (Choose two.)
+
+
+
+Why should your business use Performance Planner?
+
+
+
+
+
+In-Market audiences would be suited to reach which user?
+
+
+
+
+
+
+What's an example of an effective callout extension?
+
+
+
+
+
+
+
+Carlton runs an adventure excursion company in South America. He'd like to increase the number of people booking his tours.
+
+Which activity will lead potential customers to Carlton's company through Google Search ads?
+
+
+
+
+
+
+
+What can the Performance Planner assist you with?
+
+
+
+
+
+What's the maximum number of ad extensions that can show for a particular query or device at any given time?
+
+
+
+Brian manages his company's Google Search Ads campaign. He regularly reviews the optimization score to make his Google Search campaign as effective as possible.
+
+What is Brian's optimization score based upon?
+
+
+
+Reggie manages the online marketing campaigns for a vitamin and supplement store. He launched a Google Search campaign and chose website traffic as his campaign marketing goal.
+
+Which outcome is Reggie expecting from the campaign?
+
+
+
+
+
+
+Theo is looking to improve his Google Search Ads campaign. On his Google Ads Recommendations page, he notices that his Google Search campaign has an optimization score of 75%.
+
+What does this mean?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
